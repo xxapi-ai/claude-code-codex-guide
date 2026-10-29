@@ -24,6 +24,7 @@ xxapi（[https://xxapi.ai](https://xxapi.ai)）是一个 Claude Code / Codex API
 | [CC Switch 国内下载与配置（Claude Code / Codex）](docs/05-cc-switch.md) | 不想手改配置文件，用图形界面切换 |
 | [Claude 桌面版接入第三方 API](docs/06-claude-desktop.md) | 用 Claude Desktop 桌面窗口 |
 | [Cherry Studio 接入 Claude、GPT 中转 API](docs/07-cherry-studio.md) | 在聊天软件里用 Claude、GPT |
+| [Claude / ChatGPT 官方账号用不了？用 API 不需要官方账号](docs/08-no-official-account.md) | 想弄清 API 方式和官方账号的区别 |
 | [Claude Code / Codex 常见报错速查](docs/09-errors.md) | 配好后报错 |
 | [xxapi 怎么算费用：「约官方价 X%」是什么意思](docs/10-pricing.md) | 想知道怎么扣费 |
 | [GPT Image 2 API 调用示例（curl / Python）](docs/11-gpt-image-2-api.md) | 用代码生成图片 |
